@@ -9,7 +9,7 @@ I'm also got a certification in English under IELTS with a band score of 8.
 
 
 
-Hola, Soy Roberto, analista programador.
+Hola, Soy Roberto, desarrollador web.
 
 Esta será la única sección en español de mi página en Github. Todos mis proyectos y los comentarios estarán en inglés.
 Me especializo en Javascript/React y SQL.
