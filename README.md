@@ -1,7 +1,6 @@
 Hi there, my name is Roberto and I am a Web Developer.
 
 
-The road has been long and rocky but I am finally getting somewhere in coding. 
 I got my degree in August 12th 2021, Chile.
 I specialize in Javascript/React and SQL.
 Furthermore, I also possess good understanding in object-oriented programming, relational databases and design patterns such as MVC.
